@@ -48,8 +48,22 @@ cd flask-backend
 # Create virtual environment
 python -m venv venv
 
-# Activate environment (Windows)
-venv\Scripts\activate
+```
+### Frontend Setup 
+```bash
+# Navigate to frontend folder
+cd plant-watering-admin
 
 # Install dependencies
+npm install
+
+# Activate environment (Windows)
+venv\Scripts\activate
+```
+
+### Usage
+
+# Backend Server
+
+
 pip install -r requirements.txt
