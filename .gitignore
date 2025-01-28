@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyre
+*.pyproj
+*.sublime-project
+*.sublime-workspace
+venv/
+env/
+*.env
+*.venv
+*.egg-info/
+dist/
+build/
+*.log
+*.pot
+*.sqlite
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+build/
+dist/
+coverage/
+.parcel-cache/
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing
+junit.xml
+test-results/
+
+# Logs
+logs/
+*.log
+
+# .gitignore addition
+* text=auto
